@@ -1,3 +1,15 @@
 # CorePython
+ A 12-week Python Training Program that covers the following topics: 
 
-Write why we created this file
+- Introduction to Python and Fundamentals-
+- Git
+- Conditional Statements
+- Data Structures
+- Functions
+- Libraries
+- Error Handling
+- File Operations
+- Object Oriented Programming
+- Numpy
+- Pandas
+- Matplotlib
