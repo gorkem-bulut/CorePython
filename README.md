@@ -1,7 +1,8 @@
 # CorePython
  A 12-week Python Training Program which covers the following topics: 
 
-- Introduction to Python and Fundamentals-
+- Introduction to Python
+- Fundamentals of Python
 - Git
 - Conditional Statements
 - Data Structures
