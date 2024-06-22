@@ -1,5 +1,5 @@
 # CorePython
- A 12-week Python Training Program that covers the following topics: 
+ A 12-week Python Training Program which covers the following topics: 
 
 - Introduction to Python and Fundamentals-
 - Git
